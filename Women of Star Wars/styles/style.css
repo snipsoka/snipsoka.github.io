@@ -1,0 +1,38 @@
+html {
+  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-family: 'Bebas Neue', cursive; /* this should be the rest of the output you got from Google fonts */
+  background-color: #000000;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #e0c600;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2{
+  letter-spacing: 1px;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: yellow;
+}
+
+body {
+  width: 1400px;
+  margin: 0 auto;
+  background-color: ##9e9999;
+  padding: 0 20px 20px 20px;
+  border: 5px solid yellow;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
